@@ -17,9 +17,11 @@ Dentro de mi _**Github**_ encontrarás mis proyectos personales con sus deploys 
 Mi perfil va orientado hacia el **Desarrollo Web** especificamente en el **Frontend**, por tanto decidi enfocar en aprender las siguientes tecnologías.
 
 <br>
-<figure style="text-align:center">
-<img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="html logo" title="logo html" style="width:50px"><img src="https://cdn.icon-icons.com/icons2/2645/PNG/512/markdown_icon_159971.png" alt="markdown logo" title="logo markdown" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/6577/6577289.png" alt="rama git logo" title="logo rama git" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css logo" title="logo css" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript logo" title="logo javascript" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="react logo" title="logo react" style="width:50px">
-</figure>
+
+<p align="center"><img src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="html logo" title="logo html" style="width:50px"><img src="https://macdown.uranusjr.com/static/images/logo.png" alt="markdown logo" title="logo markdown" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/6577/6577289.png" alt="rama git logo" title="logo rama git" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css logo" title="logo css" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript logo" title="logo javascript" style="width:50px"><img src="https://cdn-icons-png.flaticon.com/128/875/875209.png" alt="react logo" title="logo react" style="width:50px"></p>
+
+Actulamente sigo aprendiendo cosas nuevas de las tecnologías mencionadas, no dudo que un futuro pueda aprender otras que se me crucen en mi camino con el fin de tener un perfil mas completo.
+
 <br>
 <hr>
 <br>
