@@ -22,10 +22,6 @@ Mi perfil va orientado hacia el **Desarrollo Web** especificamente en el **Front
 
 Actulamente sigo aprendiendo cosas nuevas de las tecnologías mencionadas, no dudo que un futuro pueda aprender otras que se me crucen en mi camino con el fin de tener un perfil mas completo.
 
-<br>
-<hr>
-<br>
-
 ## Contacto
 
 Si deseas conocerme más, puedes visitar mi **[Linkedin](https://www.linkedin.com/in/nicolas-francisco-cabrera/ "Ir a Linkedin de Nicolas Cabrera")** y hablarme por allí. También puedes visitar mi **Portfolio**, al final tienes el enlace.
