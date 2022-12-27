@@ -24,7 +24,7 @@ Actulamente sigo aprendiendo cosas nuevas de las tecnologías mencionadas, no du
 
 ## Contacto
 
-Si deseas conocerme más, puedes visitar mi **[Linkedin](https://www.linkedin.com/in/nicolas-francisco-cabrera/ "Ir a Linkedin de Nicolas Cabrera")** y hablarme por allí. También puedes visitar mi **Portfolio**, al final tienes el enlace.
+Si deseas conocerme más, puedes visitar mi **[Linkedin](https://www.linkedin.com/in/nicolas-francisco-cabrera/ "Ir a Linkedin de Nicolas Cabrera")** y hablarme por allí. También puedes visitar mi **[Portfolio](https://nicofcabrera.netlify.app/ "Visiar portfolio de Nicolas Cabrera")**.
 
 Estoy abierto a escuchar propuestas, opiniones, sugerencias con la idea de seguir mejorando cada día.
 
